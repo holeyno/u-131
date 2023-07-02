@@ -49,6 +49,16 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  - **Sprint Board Update:** Sprint Board ekran görüntüsü <br/>
  ![miro](https://github.com/nrglogt/u-131/assets/121130658/ef97295b-a069-41db-a3a6-8d7a93c93f87)
  - **Ürün Durumu:** Oyun giriş ekranı, mekan tasarımları, arka profil karakteri <br/>
-
+  1. Logo <br/>
+  ![Logo](https://github.com/holeyno/u-131/blob/main/CoClimberLogo.png)   <br/>
+  2. Oyun Giriş Ekranı <br/>
+  ![Oyun Giriş Ekranı1](https://github.com/holeyno/u-131/blob/main/Giris%CC%A7%20Ekran%C4%B1%202.png?raw=true) <br/>
+  ![Oyun Giriş Ekranı2](https://github.com/holeyno/u-131/blob/main/Giris%CC%A7%20Ekran%C4%B1%203.png?raw=true) <br/>
+  3. Sprite Dosyası <br/>
+  ![Oyun Sprite Dosyası](https://github.com/holeyno/u-131/blob/main/Sprite.png?raw=true) <br/>
+  4. Background <br/>
+  ![Background1](https://github.com/holeyno/u-131/blob/main/Background-Blue.png?raw=true) <br/>
+  ![Background2](https://github.com/holeyno/u-131/blob/main/Pink%20Background.png?raw=true) <br/>
+  ![Background3](https://github.com/holeyno/u-131/blob/main/Pink-Orange%20Background.png?raw=true) <br/>
  - **Sprint Review:** Önceki sprint boyunca logo tasarımı, mekan tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** Bayram dolayısıyla yaşanan aksaklıklardan dolayı backloglar düzenlenerek kodlama kısmına ağırlık verilmesi gerektiği kararlaştırılmıştır.
